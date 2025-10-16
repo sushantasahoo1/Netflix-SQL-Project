@@ -23,3 +23,7 @@ This project demonstrates skills in SQL querying, data manipulation, and analyti
 14. Salman Khan Movies (Last 10 Years) – Count movies featuring Salman Khan in the last decade.
 15. Top 10 Actors (India) – Find the most frequent actors in Indian productions.
   Content Categorization (‘Good’ vs ‘Bad’) – Classify titles based on keywords like kill or violence in the description.
+
+## Conclusion
+This project showcases how SQL can be used to analyze real-world entertainment datasets and uncover insights about viewer trends, content types, and geographical distribution.
+It also strengthens understanding of PostgreSQL string functions, data categorization, and analytical thinking using SQL.
